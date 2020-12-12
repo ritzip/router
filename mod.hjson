@@ -2,3 +2,4 @@ name: router
 displayName: 
 author: routzip
 hidden: true
+minGameVersion: 105
